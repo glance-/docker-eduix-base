@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM debian:stretch
 MAINTAINER Jarkko Leponiemi "jarkko.leponiemi@eduix.fi"
 # ARG JAVA_VERSION=8u181
 # ARG BUILD_VERSION=b13
